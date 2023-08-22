@@ -1,0 +1,107 @@
+time,student,gender,age,university,job,country,heard,ethical,assignment,learning,agree,other
+2/18/2023 12:16:31,Yes,Female,15-22 years old,Undergraduate Student,Self-employed,Canada,Yes,Yes,Yes,Yes,Neutral,"Researching difficult questions, Programming assignments"
+2/18/2023 12:55:30,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,No,Agree,Programming assignments
+2/18/2023 13:03:00,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Agree,"Researching difficult questions, Self Teaching"
+2/18/2023 13:03:14,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,No,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 13:17:26,Yes,Male,15-22 years old,Undergraduate Student,Student,USA,Yes,Yes,Yes,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 13:17:29,Yes,Male,15-22 years old,Undergraduate Student,Student,USA,Yes,Yes,Yes,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 13:59:01,Yes,Female,23-30 years old,Undergraduate Student,Student,Canada,Yes,No,No,Yes,Disagree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 14:16:30,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,No,No,No,No,Agree,Programming assignments
+2/18/2023 14:21:46,Yes,Male,15-22 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,No,No,No,Strongly agree,Anything
+2/18/2023 14:26:08,Yes,Female,23-30 years old,Undergraduate Student,Student,Canada,Yes,No,Yes,Yes,Disagree,"Researching difficult questions, Debates and discussions"
+2/18/2023 14:43:36,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,Yes,No,Strongly agree,Researching difficult questions
+2/18/2023 14:43:41,Yes,Male,23-30 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,,Agree,"Researching difficult questions, Probably completing small hwk assignments. I don't think that benefits long-term learning. Communication skills will definitely tank. "
+2/18/2023 14:46:06,Yes,Female,23-30 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,No,No,No,No,Agree,"Researching difficult questions, Debates and discussions"
+2/18/2023 14:59:20,Yes,Male,23-30 years old,Graduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,Yes,No,Yes,Neutral,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 15:07:47,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,Yes,Neutral,"Researching difficult questions, Programming assignments"
+2/18/2023 15:22:40,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,No,Strongly disagree,"Researching difficult questions, Debates and discussions"
+2/18/2023 15:23:49,Yes,Male,15-22 years old,Undergraduate Student,Student,Other,Yes,Yes,No,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 15:29:15,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,No,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 15:29:52,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 15:30:11,Yes,Female,23-30 years old,Undergraduate Student,Self-employed,Canada,Yes,Yes,No,Yes,Agree,Debates and discussions
+2/18/2023 15:45:49,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Neutral,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 15:48:53,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Agree,"Researching difficult questions, Debates and discussions"
+2/18/2023 15:50:37,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Neutral,"Researching difficult questions, Programming assignments"
+2/18/2023 15:52:08,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Strongly disagree,"Researching difficult questions, Programming assignments"
+2/18/2023 16:41:29,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Agree,Researching difficult questions
+2/18/2023 16:48:00,Yes,Male,23-30 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Other,Yes,Yes,Yes,Yes,Neutral,"Researching difficult questions, Debates and discussions, Programming assignments, "
+2/18/2023 16:55:15,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,Yes,Agree,"Researching difficult questions, helping students understand difficult topics"
+2/18/2023 17:11:58,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 17:18:29,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Neutral,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 17:26:43,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,No,Yes,No,No,Neutral,Researching difficult questions
+2/18/2023 18:22:50,Yes,Male,15-22 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,Yes,Yes,Yes,Strongly disagree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 18:30:16,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Strongly disagree,"Researching difficult questions, Debates and discussions"
+2/18/2023 18:47:37,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,Yes,Neutral,"Researching difficult questions, Programming assignments"
+2/18/2023 19:43:34,Yes,Female,15-22 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,No,No,Yes,Agree,"Researching difficult questions, Programming assignments"
+2/18/2023 20:50:48,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,No,Yes,No,Yes,Agree,"Researching difficult questions, Programming assignments"
+2/18/2023 21:55:51,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,No,Agree,Programming assignments
+2/18/2023 23:07:53,Yes,Male,15-22 years old,Undergraduate Student,Student,Other,Yes,Yes,Yes,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/18/2023 23:44:07,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,Yes,Agree,"Researching difficult questions, Programming assignments"
+2/18/2023 23:45:14,Yes,Female,15-22 years old,Undergraduate Student,Student,Other,Yes,No,No,No,Strongly agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/19/2023 0:21:14,Yes,Male,15-22 years old,Undergraduate Student,Student,Other,Yes,No,Yes,No,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/19/2023 10:37:11,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Neutral,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/19/2023 12:16:04,Yes,Female,23-30 years old,Undergraduate Student,Employed full-time (40+ hours a week),Canada,No,Yes,No,Yes,Neutral,"Researching difficult questions, Programming assignments"
+2/19/2023 12:23:47,Yes,Female,23-30 years old,Graduate Student,Employed full-time (40+ hours a week),Canada,No,No,No,No,Neutral,Researching difficult questions
+2/19/2023 15:05:22,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/20/2023 12:45:29,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,No,Neutral,Researching difficult questions
+2/20/2023 13:35:10,Yes,Male,15-22 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,Yes,Yes,Yes,Strongly disagree,"Researching difficult questions, Programming assignments"
+2/20/2023 14:08:46,Yes,Female,23-30 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Neutral,"Researching difficult questions, Debates and discussions"
+2/20/2023 14:59:42,Yes,Female,23-30 years old,Graduate Student,Employed full-time (40+ hours a week),Canada,Yes,Yes,Yes,Yes,Strongly agree,Debates and discussions
+2/20/2023 15:01:37,Yes,Female,23-30 years old,Graduate Student,Employed full-time (40+ hours a week),Canada,Yes,Yes,Yes,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/20/2023 15:51:15,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,No,Agree,Researching difficult questions
+2/20/2023 16:39:03,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,No,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/20/2023 17:11:27,Yes,Female,23-30 years old,Graduate Student,Employed full-time (40+ hours a week),Canada,No,Yes,Yes,Yes,Strongly disagree,"Researching difficult questions, "
+2/20/2023 17:12:27,Yes,Female,23-30 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Strongly disagree,Researching difficult questions
+2/20/2023 17:15:06,Yes,Female,23-30 years old,Graduate Student,Employed full-time (40+ hours a week),Canada,Yes,Yes,No,Yes,Neutral,Programming assignments
+2/20/2023 17:40:56,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Neutral,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/20/2023 20:21:12,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,Yes,Yes,Neutral,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/20/2023 21:53:12,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,No,Agree,"Researching difficult questions, Debates and discussions"
+2/21/2023 7:51:54,Yes,Female,23-30 years old,Graduate Student,Student,Canada,Yes,Yes,No,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/21/2023 18:13:13,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,No,Strongly disagree,Programming assignments
+2/21/2023 23:35:32,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,Yes,Yes,Agree,"Researching difficult questions, Debates and discussions"
+2/22/2023 11:52:18,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,No,Strongly agree,Self Tutoring / Homework Help
+2/22/2023 17:11:47,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments, "
+2/22/2023 21:00:25,Yes,Male,23-30 years old,Graduate Student,Self-employed,Canada,Yes,Yes,Yes,Yes,Strongly disagree,Programming assignments
+2/22/2023 21:13:03,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,No,Neutral,"Researching difficult questions, Programming assignments"
+2/23/2023 1:39:49,Yes,Female,23-30 years old,Undergraduate Student,Student,Canada,Yes,No,No,No,Strongly disagree,Researching difficult questions
+2/24/2023 21:38:54,Yes,Female,15-22 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,No,No,Yes,Neutral,"Researching difficult questions, Debates and discussions, Programming assignments, "
+2/26/2023 17:01:30,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,No,Yes,No,No,Agree,"Researching difficult questions, Debates and discussions, ideas, structure, anything that doesnt have it do an important part of the assignment"
+2/26/2023 18:01:55,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,No,Agree,Researching difficult questions
+2/26/2023 20:48:34,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Neutral,Researching difficult questions
+2/26/2023 20:54:00,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Neutral,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/27/2023 11:41:01,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Agree,Researching difficult questions
+2/27/2023 15:26:09,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,Yes,Yes,Neutral,"Researching difficult questions, Debates and discussions"
+2/28/2023 13:57:10,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,No,Agree,Researching difficult questions
+2/28/2023 14:07:56,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,No,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+2/28/2023 14:14:12,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Agree,Researching difficult questions
+2/28/2023 17:12:23,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,Yes,Agree,"Researching difficult questions, Programming assignments"
+2/28/2023 17:12:53,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Agree,Researching difficult questions
+3/4/2023 10:27:38,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,Yes,Yes,Strongly disagree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/4/2023 10:35:28,Yes,Male,23-30 years old,Graduate Student,Student,Canada,Yes,No,No,No,Neutral,"Researching difficult questions, Programming assignments"
+3/4/2023 10:37:07,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Agree,"Programming assignments, Looking up ideas"
+3/4/2023 10:37:46,Yes,Male,15-22 years old,"Other instructor (TA, study helper, etc.)",Employed full-time (40+ hours a week),Canada,Yes,Yes,No,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/4/2023 10:38:52,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,No,Strongly agree,"Researching difficult questions, Debates and discussions, Programming assignments, Assignments in general"
+3/4/2023 17:43:21,Yes,Female,15-22 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,No,Yes,Yes,Strongly agree,"Researching difficult questions, Debates and discussions"
+3/8/2023 10:01:34,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,No,No,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/8/2023 10:10:47,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,No,Yes,Strongly agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/8/2023 13:07:21,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,No,No,Strongly agree,Researching difficult questions
+3/8/2023 13:18:06,Yes,Female,15-22 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,Neutral,No,Neutral,Disagree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/8/2023 13:22:15,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,No,Yes,Agree,Researching difficult questions
+3/8/2023 13:44:18,Yes,Female,15-22 years old,Undergraduate Student,Student,Other,Yes,Neutral,No,Neutral,Agree,"Researching difficult questions, Debates and discussions"
+3/8/2023 13:49:07,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Disagree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/8/2023 17:09:30,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,No,Yes,Agree,"Researching difficult questions, Programming assignments"
+3/13/2023 13:47:38,Yes,Male,15-22 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,Neutral,Yes,No,Agree,"Researching difficult questions, Programming assignments"
+3/13/2023 13:51:47,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,No,No,Agree,Researching difficult questions
+3/13/2023 15:12:51,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,No,Neutral,Neutral,"Researching difficult questions, Programming assignments"
+3/13/2023 16:56:50,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,No,Neutral,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/13/2023 17:20:40,Yes,Male,15-22 years old,Undergraduate Student,Student,Other,Yes,No,No,No,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/13/2023 18:14:33,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,No,Neutral,Strongly agree,"Researching difficult questions, I use chat gbt to explain concepts for me from classes I am struggling in. I also use it to find academic papers in certain niches, for example im writing a paper on the france flood of 1910, and was able to find many academic papers throught chatgbt"
+3/13/2023 18:25:46,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Yes,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/13/2023 18:56:39,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Yes,Yes,Neutral,Agree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/13/2023 19:34:12,Yes,Female,15-22 years old,Undergraduate Student,Employed part-time (less than 40 hours a week),Canada,Yes,Neutral,Yes,No,Agree,"Researching difficult questions, Programming assignments"
+3/13/2023 19:36:28,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,No,No,Agree,"Researching difficult questions, Programming assignments"
+3/13/2023 19:38:58,Yes,Female,15-22 years old,Undergraduate Student,Student,Canada,Yes,No,No,Yes,Neutral,Researching difficult questions
+3/13/2023 23:13:19,Yes,Male,15-22 years old,Undergraduate Student,Student,Other,Yes,Yes,Yes,Yes,Disagree,Researching difficult questions
+3/14/2023 10:17:55,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,Yes,Yes,Disagree,"Researching difficult questions, Debates and discussions, Programming assignments"
+3/14/2023 10:31:25,Yes,Male,15-22 years old,Undergraduate Student,Student,Other,Yes,Yes,Yes,No,Strongly agree,Researching difficult questions
+3/14/2023 11:16:35,Yes,Male,15-22 years old,Undergraduate Student,Student,Canada,Yes,Neutral,Yes,Neutral,Disagree,Debates and discussions
